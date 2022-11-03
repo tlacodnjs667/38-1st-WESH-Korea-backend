@@ -95,6 +95,13 @@ MY PAGE API <br>
 LIKE - CRD API <br>
 DATA BUILDING <br>
  <br>
+
+	
+	<h2> #담당 업무(개인 상세)</h2>
+<h3>product list</h3>
+	프로덕트 리스트 API 요청이 들어왔을 때, 전체 카테고리, 인기순(구매내역 순으로 데이터 송출)
+	
+	
 <h2>
 #ERD</h2>
 <hr>
